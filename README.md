@@ -9,7 +9,7 @@ Clonas el repo una vez y, desde cada proyecto, instalas **solo** las skills que 
 ## Instalación inicial (una sola vez)
 
 ```bash
-git clone <url-del-repo> ~/Documents/IA/skills
+git clone https://github.com/ablancodev/claude-skills.git ~/Documents/IA/skills
 ```
 
 Puedes clonarlo donde quieras; los ejemplos asumen esa ruta.
