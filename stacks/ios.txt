@@ -1,0 +1,4 @@
+# Skills for iOS / Swift / SwiftUI projects
+# One skill per line. Lines starting with # are ignored.
+
+apple-intelligence-app-intents
