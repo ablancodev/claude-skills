@@ -1,6 +1,6 @@
-# Skills for WordPress projects (PHP, themes, plugins, WP-CLI)
+# Skills for WordPress projects (PHP, themes, plugins, WP-CLI, Gutenberg)
 # One skill per line. Lines starting with # are ignored.
 
-# (add WordPress skills here as you create them, e.g.:)
-# wordpress-blocks
-# wp-cli
+wordpress-7-ai-abilities
+wordpress-gutenberg-php-blocks
+wordpress-plugin-security

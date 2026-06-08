@@ -111,7 +111,7 @@ Por defecto se hacen symlinks (los cambios en el repo se reflejan en todos los p
 | Stack | Archivo | Skills |
 |---|---|---|
 | `ios` | `stacks/ios.txt` | `apple-intelligence-app-intents` |
-| `wordpress` | `stacks/wordpress.txt` | _(vacío por ahora)_ |
+| `wordpress` | `stacks/wordpress.txt` | `wordpress-7-ai-abilities`, `wordpress-gutenberg-php-blocks`, `wordpress-plugin-security` |
 
 Para añadir más, edita el `.txt` correspondiente o crea uno nuevo en `stacks/`.
 
